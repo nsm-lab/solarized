@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Solarized
 description: Precision colors for machines and people
@@ -411,3 +412,7 @@ background.
 [me]: http://ethanschoonover.com/colophon
 [changelog]: http://ethanschoonover.com/solarized/CHANGELOG
 [Vim README]: http://ethanschoonover.com/solarized/vim-colors-solarized
+=======
+# solarized
+Precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes
+>>>>>>> 1045e4dfadc51018d9e7bab7b6d00e937dc8ff59
